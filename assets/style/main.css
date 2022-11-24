@@ -58,8 +58,18 @@ ul {
   right: 0;
   background-color: #212529;
   color: #EA9F07;
+  padding: 0.25em 0.5em;
   border-radius: 0.5em;
-  transform: translate(20px, -20px);
+  transform: translate(20px, 0px);
+}
+
+.image-gants-wrapper h3 {
+  background-color: white;
+  margin: 0 auto 10px;
+  width: 350px;
+  color: black;
+  padding: 0.5em;
+  font-size: 1.30em;
 }
 
 .btn {
@@ -111,6 +121,14 @@ ul {
     padding: 0.2em 0.5em;
     border-radius: 0.5em;
     transform: translate(20px, -20px);
+  }
+  .image-gants-wrapper h3 {
+    background-color: white;
+    margin: 0 auto 10px;
+    width: 280px;
+    color: black;
+    padding: 0.5em;
+    font-size: 1.30em;
   }
 }
 
